@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/**
+ * Write a description of class g here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+
 public class FixedDepositNIB {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
